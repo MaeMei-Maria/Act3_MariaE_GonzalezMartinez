@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/joaqu/Downloads/Act3_MariaE_GonzalezMartinez/Test/Content/BP_PushableCube.uasset",
+				"C:/Users/joaqu/Downloads/Act3_MariaE_GonzalezMartinez/Test/Content/PushPull/BP_PushableCube.uasset",
+				"C:/Users/joaqu/Downloads/Act3_MariaE_GonzalezMartinez/Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/GF/GERSOPIZDELU8B7F0K2UND.uasset",
+				"C:/Users/joaqu/Downloads/Act3_MariaE_GonzalezMartinez/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
